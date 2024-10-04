@@ -5,9 +5,9 @@ ___
 https://docs.google.com/presentation/d/1Jvso_T25bmLokEeYrpzs0_K3VXzsf7-JN9meM2BNeEA/edit#slide=id.p
 ## ***Цирк первая БД***
 https://drive.google.com/drive/folders/1fNBVRZOgKMx8tkMlxZ2BTot4VraLYSIe?usp=sharing
-## ***Вторая БД для компьютера ***
+## ***Вторая БД для компьютера***
 https://drive.google.com/drive/folders/1SNGnVb35qZ4fNW_SSAuNeQbfGo-JBFOL?usp=sharing
-## *** Зоопарк третья БД ***
+## ***Зоопарк третья БД***
 https://drive.google.com/drive/folders/1PYq-XEiF7cFwKq8zYtvSVBRQ1rFSp2Np?hl=ru
 ## ***Впр 1***
 https://docs.google.com/document/d/10QszFh8Jj27iLc1NhAAI7gtK32eOIhtLeDVsMeiW7LQ/edit?usp=sharing
