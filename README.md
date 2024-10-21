@@ -20,3 +20,5 @@ https://docs.google.com/spreadsheets/d/1DYWEipreBcUv3abcCeE748BTfkqx2-GUHI1Crhbq
 https://drive.google.com/file/d/1bPUGyVBpcR5K5TjWo2FRqUvVTAzloeXz/view?usp=sharing
 ## ***конспект Базы данных***
 https://docs.google.com/document/d/1PZGZGwiKSJ3sGoyA1Nm7LHi8bJ9hVWnvPlVgoRVex2E/edit?usp=sharing
+## ***Презентация на конкурс***
+https://docs.google.com/presentation/d/14muqCCGuPPA0gsEh3EtzDG_pfATlLPtFVxVt0n1QwqM/edit?usp=sharing
